@@ -14,7 +14,7 @@ O projeto de estudo dessa semana foi a plataforma de estudos Online Proffy. A pl
 O App foi desenvolvido com [expo](https://expo.io/) + [react-native](https://reactnative.dev/)
 
 Home | Dar Aulas | Listar Proffys | Favoritos
-:-----|:-----:|:-----:|-----:
+:-----:|:-----:|:-----:|:-----:
 ![Home](./assets/landing.jpg) | ![Dar Aulas](./assets/giveClasses.jpg) | ![Lista](./assets/teacherItems.jpg) | ![Favoritos](./assets/favorites.jpg)
 
 
